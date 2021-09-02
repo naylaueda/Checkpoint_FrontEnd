@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#banner {
+    background-image: url(/CTD/1_bimestre/FrontEndI/checkpoint01/img/trem.jpeg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 200px 0px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    color: white;
+    background-color: rgba(128, 87, 0, 0.452);
+    padding: 20px 0px;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+}
+
+main{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: cover;
+    padding-left: 10px;
+
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    padding: 15px;
+}
+
+iframe{
+    position: relative;
+    left: 25%;
+    width: 1280px;
+    height: 720px;
+}
+
+ul{
+    padding: 20px 0px 20px 50px;
+}
+
+footer{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+h3{
+    padding: 10px;
+}
+
+#redesocial img{
+    width: 80px;
+    position: relative;
+    left: 10px;
+    padding: 10px;
+}
+
+
+
